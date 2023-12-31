@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 100px;
+}
+
+/*.task.completed {*/
+/*    text-decoration: line-through;*/
+/*    color: #999;*/
+/*}*/
